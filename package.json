@@ -1,6 +1,6 @@
 {
   "name": "willis-aem",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI for Adobe AEM applications",
   "main": "dist/index.js",
   "bin": {

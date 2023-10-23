@@ -6,7 +6,7 @@ const program = new Command();
 program
   .name("willis-aem")
   .description("CLI to facilitate the development components in Adobe AEM")
-  .version("1.0.0");
+  .version("1.0.1");
 
 program
   .command("generate:component [name] [nameProject]")
